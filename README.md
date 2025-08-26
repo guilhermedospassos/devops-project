@@ -2,7 +2,6 @@
 
 Este projeto demonstra a implementação de práticas modernas de DevOps através de uma aplicação completa de gerenciamento de tarefas, incluindo pipeline de CI/CD automatizado e infraestrutura como código.
 
-[![CI Pipeline](https://github.com/guilhermedospassos/devops-project/actions/workflows/ci.yml/badge.svg)](https://github.com/guilhermedospassos/devops-project/actions/workflows/ci.yml)
 
 
 ## Configuração e Execução
